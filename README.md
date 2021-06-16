@@ -2,24 +2,17 @@
 
 ## Certificates
 
-- [C# Basics][C#Basics]!
-- [C# Fundamentals][C#Fund]!
-- [C# Advanced][C#Adv]!
-- [C# OOP][C#OOP]!
-- [Entity Framework Core][EfCore]!
-- [MSSQL][MSSQL]!
+- [C# Basics][C#Basics]
+- [C# Fundamentals][C#Fund]
+- [C# Advanced][C#Adv]
+- [C# OOP][C#OOP]
+- [Entity Framework Core][EfCore]
+- [MSSQL][MSSQL]
 - 🔜 - C# Web Basics
 - 🔜 - ASP.NET Core
 - 🔜 - JavaScript Advanced
 - 🔜 - JS Applications
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-<br />
-
-<br />
 <br />
 
 
