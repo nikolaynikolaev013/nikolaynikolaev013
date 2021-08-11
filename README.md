@@ -9,7 +9,7 @@
 - [Entity Framework Core][EfCore]
 - [MSSQL][MSSQL]
 - [C# Web Basics][C#WebBasics]
-- [JS Applications] - [JSApps]
+- [JS Applications][JSApps]
 - 🔜 - ASP.NET Core
 - 🔜 - JavaScript Advanced
 
