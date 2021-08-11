@@ -9,9 +9,9 @@
 - [Entity Framework Core][EfCore]
 - [MSSQL][MSSQL]
 - [C# Web Basics][C#WebBasics]
+- [JS Applications] - [JSApps]
 - 🔜 - ASP.NET Core
 - 🔜 - JavaScript Advanced
-- 🔜 - JS Applications
 
 <br />
 
@@ -23,3 +23,4 @@
 [EfCore]: https://softuni.bg/certificates/details/102699/c0129bea
 [MSSQL]: https://softuni.bg/certificates/details/103960/a464775b
 [C#WebBasics]: https://softuni.bg/certificates/details/109426/ba854e62
+[JSApps]: https://softuni.bg/certificates/details/110286/f56afff0
