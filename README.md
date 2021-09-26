@@ -10,8 +10,8 @@
 - [MSSQL][MSSQL]
 - [C# Web Basics][C#WebBasics]
 - [JS Applications][JSApps]
-- 🔜 - ASP.NET Core
-- 🔜 - JavaScript Advanced
+- [ASP.NET Core]
+- [JavaScript Advanced][JavaScriptAdvanced]
 
 <br />
 
@@ -24,3 +24,5 @@
 [MSSQL]: https://softuni.bg/certificates/details/103960/a464775b
 [C#WebBasics]: https://softuni.bg/certificates/details/109426/ba854e62
 [JSApps]: https://softuni.bg/certificates/details/110286/f56afff0
+[ASP.NETCore]: https://bit.ly/ASPNETCert
+[JavaScript Advanced]: https://bit.ly/JSAdvCert
