@@ -10,7 +10,7 @@
 - [MSSQL][MSSQL]
 - [C# Web Basics][C#WebBasics]
 - [JS Applications][JSApps]
-- [ASP.NET Core]
+- [ASP.NET Core][ASP.NETCore]
 - [JavaScript Advanced][JavaScriptAdvanced]
 
 <br />
