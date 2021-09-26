@@ -2,16 +2,16 @@
 
 ## Certificates
 
-- [C# Basics][C#Basics]
-- [C# Fundamentals][C#Fund]
-- [C# Advanced][C#Adv]
-- [C# OOP][C#OOP]
-- [Entity Framework Core][EfCore]
-- [MSSQL][MSSQL]
-- [C# Web Basics][C#WebBasics]
-- [JS Applications][JSApps]
 - [ASP.NET Core][ASP.NETCore]
 - [JavaScript Advanced][JavaScriptAdvanced]
+- [JS Applications][JSApps]
+- [C# Web Basics][C#WebBasics]
+- [Entity Framework Core][EfCore]
+- [MSSQL][MSSQL]
+- [C# OOP][C#OOP]
+- [C# Advanced][C#Adv]
+- [C# Fundamentals][C#Fund]
+- [C# Basics][C#Basics]
 
 <br />
 
