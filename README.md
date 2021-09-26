@@ -25,4 +25,4 @@
 [C#WebBasics]: https://softuni.bg/certificates/details/109426/ba854e62
 [JSApps]: https://softuni.bg/certificates/details/110286/f56afff0
 [ASP.NETCore]: https://bit.ly/ASPNETCert
-[JavaScript Advanced]: https://bit.ly/JSAdvCert
+[JavaScriptAdvanced]: https://bit.ly/JSAdvCert
